@@ -2,15 +2,14 @@ print('hello wo daldkjf')
 ttt
 <<<<<<< HEAD
 slkdjfklaldfkja
-lsjflajlf;ja;lj
-=======
+lsjflajlf;j
 this is my lvd
 sdfasdf
 asdfsdf
 asdfasdf
 asdfasdf
 sadfsdfsdfsa
-
-
-
->>>>>>> adae86a27fe12d67114183195fe78fcd386c7e2c
+11111111111111111
+111111111111111111
+22222222222222
+33333333333333
